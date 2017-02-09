@@ -1,0 +1,133 @@
+
+/*body*/
+body {background-color: #ebebeb;
+      margin:0;}
+
+/*site size*/
+.websize {margin: 0px 0px 0px 0px;
+         width: 80%;}
+
+
+.nav {margin-top: 5%;}
+.nav .logo {font-family: 'Dancing Script', cursive;
+             font-weight: bold;
+             font-size: 50px;
+             margin-top: 10px;
+             padding: 55px 15px 15px 35px;
+            }
+
+.nav ul {margin: 0; 
+          padding: 15px 35px 15px 15px;
+          float: right;
+
+      }
+.nav li {display: inline-block;
+	     padding: 15px 25px;
+	     
+
+          }       
+.nav a {text-decoration: none;
+	     color:#a6a3a8;
+         text-transform: uppercase;}  
+
+hr {border: 1px solid;}
+
+ /*header*/
+.header {text-align: center;
+          font-family: Arial;
+            }
+         
+.header h1 span {color:pink;}
+
+/*features*/
+.features h3 {color: pink;
+	          font-family:'Dancing Script', cursive; 
+        text-align: center;}
+.item {width: 47%;
+	    float: left;
+	    margin: 0 10px 0 10px;
+	}
+
+.features p {font-family: 'Architects Daughter', cursive;}
+.images {margin-top: 10%;
+	     margin: 0px 100px 0px 100px;
+         padding: 30px 100px 30px 100px;
+	    display: inline-block;
+
+ }
+h3 { font-family:'Dancing Script', cursive; 
+     text-align: center;
+     color: pink;
+      font-size: 20px;}
+
+ /*footer*/
+ .footer {background-color: #2d2d2d;
+          
+           }
+ .footer h3 {color: #b0343e;
+ 	          text-align: left;
+               font-family:'Dancing Script', cursive;}
+
+
+
+form {border-style: 30px bold;
+     display: inline-block;
+     width: 50%;
+      }
+
+input {width: 450px;
+        background-color:#d7d7d7;
+        margin: 0 
+        padding: 0 100px; 
+         }
+
+
+textarea {width: 450px;
+	       background-color:#d7d7d7;
+         }
+button {background-color: #2d2d2d;
+	   border-style: none;
+       color: white;
+       height: 50px;
+       cursor: pointer;}
+
+/*social icon*/
+#social {margin: 15px 10px 50px 50px;
+	      display: inline-block;
+	      float: right;
+	      width: 120px;
+	      height: 70px;
+
+	  }
+#social a {color:#2d2d2d;
+            border-radius: 50%;
+            background-color: #cf7482;
+            	        
+         }
+
+#social .fa-twitter {padding: 5px 5px;}         
+#social .fa-facebook {padding: 5px 5px;}
+#social .fa-youtube {padding: 5px 5px;}
+#social .fa-google {padding: 5px 5px;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
